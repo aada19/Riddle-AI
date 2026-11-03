@@ -171,7 +171,9 @@ RIDDLES = [
             "grandfather, father and son",
             "a grandfather, his son, and his grandson",
             "grandfather, father, son",
-            "there are three people"
+            "there are three people",
+            "3 people",
+            "There are 3 people"
         ],
         "hint": "One person can be both a son and a father.",
         "difficulty": "AI Challenge"
